@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FloraKunjumon
 - 👀 I’m interested in Java development and Machine Learning
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jax4000@gmail.com
 
 <!---
