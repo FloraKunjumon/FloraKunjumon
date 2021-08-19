@@ -9,43 +9,7 @@
 
 
 Languages and Tools:
-Java
-
-Python
-
-HTML5
-
-CSS3
-
-JavaScript
-
-React
-
-Node.js
-
-Vue
-
-Angular
-
-AWS
-
-Visual Studio Code
-
-JSON
-
-MySQL
-
-Sass
-
-SQL
-
-GitHub
-
-Git
-
-HTML5
-
-MongoDB
+Java, Python, HTML5, CSS3, JavaScript, React, Node.js, Vue, Angular, AWS, Visual Studio Code, JSON, MySQL, SQL, GitHub, Git, HTML5. MongoDB
 
 
 
