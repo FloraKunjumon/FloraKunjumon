@@ -7,6 +7,48 @@
 📱 I am an enthusiastic programmer who understands the importance of simple yet optimized solution
 🐶 Fun fact: I am a dog lover and loves gardening too
 
+
+Languages and Tools:
+Java
+
+Python
+
+HTML5
+
+CSS3
+
+JavaScript
+
+React
+
+Node.js
+
+Vue
+
+Angular
+
+AWS
+
+Visual Studio Code
+
+JSON
+
+MySQL
+
+Sass
+
+SQL
+
+GitHub
+
+Git
+
+HTML5
+
+MongoDB
+
+
+
 <!---
 FloraKunjumon/FloraKunjumon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
